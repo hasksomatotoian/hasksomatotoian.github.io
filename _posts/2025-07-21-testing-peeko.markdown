@@ -90,7 +90,7 @@ https://10.3.10.99:8443/static/control.html
 
 I got a message that the site was not secure, but I could continue and got the Control Panel:
 
-![peeko ControlPanel.jpeg](ControlPanel.jpeg)
+![peeko Control Panel](/assets/images/ControlPanel.jpeg)
 
 I could also see some messages in the **peeko** server:
 
@@ -142,7 +142,7 @@ INFO:     connection closed
 
 I tried simple `alert('Hello victim!');` and it worked very well:
 
-![Custom Javascript](JavascriptAlert.png)
+![Custom Javascript](/assets/images/JavascriptAlert.png)
 
 Also server logged it:
 
